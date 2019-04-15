@@ -2,6 +2,7 @@
 layout: post
 title: "[Ma Trận] Một số khái niệm cơ bản"
 slug: what-is-matrix
+mathjax: true
 date: 2017-09-26
 categories:
 - Toán
@@ -11,10 +12,6 @@ tags:
 keywords:
 - Matrix
 - Ma Trận
-autoThumbnailImage: true
-thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/dominhhai/image/upload/math/katex.png
-metaAlignment: center
 ---
 Đại số tuyến tính là một công cụ cơ bản cần thiết cho việc tìm hiểu học máy.
 Bài đầu tiên trong [chuỗi chủ đề này](/vi/categories/ma-tr%E1%BA%ADn/)
