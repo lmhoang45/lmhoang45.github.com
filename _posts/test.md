@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "[Ma Trận] Một số khái niệm cơ bản"
 slug: what-is-matrix
 date: 2017-09-26
