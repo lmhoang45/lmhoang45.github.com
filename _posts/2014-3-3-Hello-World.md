@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hello World!"
-slug: what-is-matrix
+slug: first-post
 date: 2019-04-15
 categories:
 - Misc
